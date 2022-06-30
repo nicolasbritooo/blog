@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    background-color: rgb(2, 0, 143);
+    
+}
+
+
+
+#myNavbar{
+    background-color:rgb(126, 4, 4) ;
+    
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color: #0f3891;
+}
+
+
+.navbar-inverse .navbar-brand {
+    color: #0f3891;
+}
+
+
+
+.icon-bar{
+    color:rgb(22, 22, 184);
+}
+
+.fotos_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.fotos_mainDiv img
+{
+  width: 100%;
+}
+
+.fotos_mainDiv h5 , .fotos_mainDiv p
+{
+margin: 20px;
+}
+
+.col-lg-6{
+    padding-bottom: 30px;
+}
+
+
+.viagensHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.viagensHead i
+{
+float: right;
+}
+
+.viagensText span
+{
+color: orange;
+}
+
+
+.quero
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+
+
